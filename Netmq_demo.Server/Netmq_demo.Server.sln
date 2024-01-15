@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Netmq_demo.Server", "Netmq_demo.Server\Netmq_demo.Server.csproj", "{B6C93C13-9A00-4FC8-9924-7889098B096C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7B52C01A-F41D-4BAB-BC2A-7FC1610ACB29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C93C13-9A00-4FC8-9924-7889098B096C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C93C13-9A00-4FC8-9924-7889098B096C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C93C13-9A00-4FC8-9924-7889098B096C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C93C13-9A00-4FC8-9924-7889098B096C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {660F436C-F6B6-4FAF-9A0C-59F7319A0ACA}
+	EndGlobalSection
+EndGlobal
